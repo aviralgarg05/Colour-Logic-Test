@@ -15,4 +15,3 @@ In order to run this script, you need to have any kind of python compiler and in
 On running `Color_guess.py`.
 ![Score_time](Score_time.jpg)
 
-![Score](Score.jpg)
